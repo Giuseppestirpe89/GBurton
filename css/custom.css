@@ -1,0 +1,16 @@
+#gpic .text {
+position:relative;
+bottom:30px;
+left:320px;
+visibility:hidden;
+}
+
+#gpic:hover .text {
+visibility:visible;
+
+}
+
+#typed-strings {
+font-size: 45px;
+
+}
